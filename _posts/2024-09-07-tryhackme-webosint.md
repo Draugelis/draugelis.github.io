@@ -360,7 +360,7 @@ _heat.net December 30, 2010_
 
 #### Process
 
-The first step is to head to [the article from the description](https://www.heat.net/36/need-to-hire-a-commercial-heating-contractor/) and review the content. For the links in the article, I just counted them—5 internal links and a single link to [purchase.org](http://www.purchase.org/).
+The first step is to head to [the article from the description](https://www.heat.net/36/need-to-hire-a-commercial-heating-contractor/) and review the content. For the links in the article, I just counted them—5 internal links and a single link to purchase.org
 
 After that, I went to the page source (right mouse click > "View Page Source"). For the Google Analytics, I found this part:
 
