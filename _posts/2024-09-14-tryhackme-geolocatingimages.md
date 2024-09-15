@@ -108,7 +108,7 @@ Great, both Google and Yandex point to China!
 #### Description
 > Okay, now we know what reverse image searching program to use. Let's try to actually look at the picture now to figure out where it is!
 > 
-> Let's say we have a webcam we found on [Shodan.io](http://shodan.io/):
+> Let's say we have a webcam we found on [Shodan.io](https://shodan.io/):
 > 
 > [https://padcam.liverpool.ac.uk/cgi-bin/guestimage.html](https://padcam.liverpool.ac.uk/cgi-bin/guestimage.html)
 >
@@ -126,7 +126,7 @@ Great, both Google and Yandex point to China!
 > 
 > Putting this into a reverse image search program shows nothing.
 > 
-> Now, something important to note is the name of the webcam. The URL points to [Liverpool.ac.uk](http://liverpool.ac.uk/), which is a university in Liverpool.
+> Now, something important to note is the name of the webcam. The URL points to [Liverpool.ac.uk](https://liverpool.ac.uk/), which is a university in Liverpool.
 > 
 > If we just had an IP address, we could try to geolocate it using an online tool, checking the ASN number or finding it on Shodan.
 > 
@@ -216,7 +216,7 @@ _Wrigleyville Sports_
 ---
 ### Task 5: Helpful tips for geolocating
 #### Description
-> Wow, congrats! I found a webcam on [Shodan.io](http://shodan.io/) and took this screenshot, you just geolocated your first image 😎
+> Wow, congrats! I found a webcam on [Shodan.io](https://shodan.io/) and took this screenshot, you just geolocated your first image 😎
 > 
 > It's important to know what is and isn't likely to be in a country. For example, it is unlikely for a regular Catholic church to appear in places where Budhism / islam is the most popular religeion.
 > 
