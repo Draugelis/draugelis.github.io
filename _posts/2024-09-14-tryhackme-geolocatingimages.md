@@ -13,7 +13,7 @@ Link to the room: [TryHackMe](https://tryhackme.com/r/room/geolocatingimages)
 ## Walkthrough
 
 - [Task 1: Getting Started](#task-1-getting-started)
-- [Task 2: Getting our feet wet - where is this?](#task-2-getting-our-feet-wet-where-is-this)
+- [Task 2: Getting our feet wet - where is this?](#task-2-getting-our-feet-wet---where-is-this)
 - [Task 3: Geolocating Images 101](#task-3-geolocating-images-101)
 - [Task 4: Now your turn](#task-4-now-your-turn)
 - [Task 5: Helpful tips for geolocating](#task-5-helpful-tips-for-geolocating)
