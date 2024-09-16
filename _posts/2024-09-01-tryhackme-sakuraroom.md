@@ -36,10 +36,10 @@ There is nothing much in this task besides the background for this room:
 > Ready to get started? Type in "Let's Go!" in the answer box below to continue.
 
 #### Answer
-> *Are you ready to begin?*
->
-> Let's Go!
-{: .prompt-info }
+<details>
+    <summary>Are you ready to begin?</summary>
+    <p>Let's Go!</p>
+</details>
 
 ---
 ### Task 2: Tip-off
@@ -91,10 +91,10 @@ inkscape:export-filename="/home/SakuraSnowAngelAiko/Desktop/pwnedletter.png"
 This is the only question in this task, so let's move forward.
 
 #### Answer
-> *What username does the attacker go by?*
->
-> SakuraSnowAngelAiko
-{: .prompt-info }
+<details>
+    <summary>What username does the attacker go by?</summary>
+    <p>SakuraSnowAngelAiko</p>
+</details>
 
 ---
 ### Task 3: Reconnaissance
@@ -251,14 +251,15 @@ Old: User ID Packet(tag 13)(32 bytes)
 
 
 #### Answers
-> *What is the full email address used by the attacker?*
->
-> SakuraSnowAngel83@protonmail.com
-> 
-> *What is the attacker's full real name?*
->
-> Aiko Abe
-{: .prompt-info }
+<details>
+    <summary>What is the full email address used by the attacker?</summary>
+    <p>SakuraSnowAngel83@protonmail.com</p>
+</details>
+
+<details>
+    <summary>What is the attacker's full real name?</summary>
+    <p>Aiko Abe</p>
+</details>
 
 ---
 ### Task 4: Unveil
@@ -287,23 +288,25 @@ In addition, there are 3 transactions where the target exchanged ETH for Tether:
 
 
 #### Answers
-> *What cryptocurrency does the attacker own a cryptocurrency wallet for?*
->
-> Ethereum
-> 
-> *What is the attacker's cryptocurrency wallet address?*
->
-> 0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef
->
-> *What mining pool did the attacker receive payments from on January 23, 2021 UTC?*
->
-> Ethermine
->
-> *What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?*
->
-> Tether
-{: .prompt-info }
+<details>
+    <summary>What cryptocurrency does the attacker own a cryptocurrency wallet for?</summary>
+    <p>Ethereum</p>
+</details>
 
+<details>
+    <summary>What is the attacker's cryptocurrency wallet address?</summary>
+    <p>0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef</p>
+</details>
+
+<details>
+    <summary>What mining pool did the attacker receive payments from on January 23, 2021 UTC?</summary>
+    <p>Ethermine</p>
+</details>
+
+<details>
+    <summary>What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?</summary>
+    <p>Tether</p>
+</details>
 
 ---
 ### Task 5: Taunt
@@ -330,17 +333,20 @@ From DeepPaste, it is known that the target's home WiFi SSID is "DK1F-G." To fin
 _WiGLE Advanced Search_
 
 #### Answers
-> *What is the attacker's current Twitter handle?*
-> 
-> SakuraLoverAiko
->
-> *What is the URL for the location where the attacker saved their WiFi  SSIDs and passwords?*
->
-> http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion
->
-> *What is the BSSID for the attacker's Home WiFi?*
->
-> 84:AF:EC:34:FC:F8
+<details>
+    <summary>What is the attacker's current Twitter handle?</summary>
+    <p>SakuraLoverAiko</p>
+</details>
+
+<details>
+    <summary>What is the URL for the location where the attacker saved their WiFi SSIDs and passwords?</summary>
+    <p>http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion</p>
+</details>
+
+<details>
+    <summary>What is the BSSID for the attacker's Home WiFi?</summary>
+    <p>84:AF:EC:34:FC:F8</p>
+</details>
 
 ---
 ### Task 6: Homebound
@@ -389,19 +395,22 @@ _WiGLE map_
 
 
 #### Answers
+<details>
+    <summary>What airport is closest to the location the attacker shared a photo from prior to getting on their flight?</summary>
+    <p>DCA</p>
+</details>
 
-> What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
-> 
-> DCA
->
-> What airport did the attacker have their last layover in?
->
-> HND
->
-> What lake can be seen in the map shared by the attacker as they were on their final flight home?
->
-> Lake Inawashiro
->
-> What city does the attacker likely consider "home"?
->
-> Hirosaki
+<details>
+    <summary>What airport did the attacker have their last layover in?</summary>
+    <p>HND</p>
+</details>
+
+<details>
+    <summary>What lake can be seen in the map shared by the attacker as they were on their final flight home?</summary>
+    <p>Lake Inawashiro</p>
+</details>
+
+<details>
+    <summary>What city does the attacker likely consider "home"?</summary>
+    <p>Hirosaki</p>
+</details>

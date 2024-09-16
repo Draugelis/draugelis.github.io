@@ -48,8 +48,10 @@ This write-up will be divided into sections according to the tasks in the WebOSI
 As the description mentions, the first step is to look up "RepublicofKoffee.com" on Google. There is a result pointing to [RepublicofKoffee.com](https://republicofkoffee.com); however, the page just shows the domain "republicofkoffee.com." In other words, the site is obsolete. The other Google results point to WebOSINT room write-ups and some other tools that will be used in this room. 
 
 #### Answers
-> No answer needed
-{: .prompt-info }
+<details>
+    <summary>Click To Complete</summary>
+    <p>No answer needed</p>
+</details>
 
 ---
 ### Task 2: Whois Registration
@@ -91,30 +93,30 @@ Name Server: ns2.brainydns.com
 All of this information should be enough to address the questions in this task.
 
 #### Answers
-> What is the name of the company the domain was registered with?
-> 
-> `Namecheap Inc`
-{: .prompt-info }
+<details>
+    <summary>What is the name of the company the domain was registered with?</summary>
+    <p>Namecheap Inc</p>
+</details>
 
-> What phone number is listed for the registration company? (do not include country code or special characters/spaces)
-> 
-> `9854014545`
-{: .prompt-info }
+<details>
+    <summary>What phone number is listed for the registration company? (do not include country code or special characters/spaces)</summary>
+    <p>9854014545</p>
+</details>
 
-> What is the first nameserver listed for the site?
-> 
-> `ns1.brainydns.com`
-{: .prompt-info }
+<details>
+    <summary>What is the first nameserver listed for the site?</summary>
+    <p>ns1.brainydns.com</p>
+</details>
 
-> What is listed for the name of the registrant?
-> 
-> `redacted for privacy`
-{: .prompt-info }
+<details>
+    <summary>What is listed for the name of the registrant?</summary>
+    <p>redacted for privacy</p>
+</details>
 
-> What country is listed for the registrant?
-> 
-> `Iceland`
-{: .prompt-info }
+<details>
+    <summary>What country is listed for the registrant?</summary>
+    <p>Iceland</p>
+</details>
 
 ---
 ### Task 3: Ghosts of Websites Past
@@ -153,20 +155,20 @@ _"Cafe Zorba, Chosun University area" Post_
 This post is enough to answer the questions for this task, so let's get into it. Just a quick note — for the last one, I had to search "*{city}* national park temple" on Google.
 
 #### Answers
-> What is the first name of the blog's author?
-> 
-> `Steve`
-{: .prompt-info }
+<details>
+    <summary>What is the first name of the blog's author?</summary>
+    <p>Steve</p>
+</details>
 
-> What city and country was the author writing from?
-> 
-> `Gwangju, South Korea`
-{: .prompt-info }
+<details>
+    <summary>What city and country was the author writing from?</summary>
+    <p>Gwangju, South Korea</p>
+</details>
 
-> [Research] What is the name (in English) of the temple inside the National Park the author frequently visits?
->
-> `Jeungsimsa Temple`
-{: .prompt-info }
+<details>
+    <summary>[Research] What is the name (in English) of the temple inside the National Park the author frequently visits?</summary>
+    <p>Jeungsimsa Temple</p>
+</details>
 
 ---
 ### Task 4: Digging into DNS
@@ -196,15 +198,15 @@ Since the questions in this task ask about the IP used in October 2016, let's lo
 
 
 #### Answers
-> What was RepublicOfKoffee.com's IP address as of October 2016?
-> 
-> `173.248.188.152`
-{: .prompt-info }
+<details>
+    <summary>What was RepublicOfKoffee.com's IP address as of October 2016?</summary>
+    <p>173.248.188.152</p>
+</details>
 
-> Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?
-> 
-> `shared`
-{: .prompt-info }
+<details>
+    <summary>Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?</summary>
+    <p>shared</p>
+</details>
 
 ---
 ### Task 5: Taking Off The Training Wheels
@@ -272,40 +274,40 @@ Finally, since the last question asks for the *first header on the site on the l
 _heat.net December 30, 2010_
 
 #### Answers
-> What is the second nameserver listed for the domain?
-> 
-> `ns2.heat.net`
-{: .prompt-info }
+<details>
+    <summary>What is the second nameserver listed for the domain?</summary>
+    <p>ns2.heat.net</p>
+</details>
 
-> What IP address was the domain listed on as of December 2011?
-> 
-> `72.52.192.240`
-{: .prompt-info }
+<details>
+    <summary>What IP address was the domain listed on as of December 2011?</summary>
+    <p>72.52.192.240</p>
+</details>
 
-> Based on domains that share the same IP, what kind of hosting service is the domain owner using?
-> 
-> `shared`
-{: .prompt-info }
+<details>
+    <summary>Based on domains that share the same IP, what kind of hosting service is the domain owner using?</summary>
+    <p>shared</p>
+</details>
 
-> On what date did was the site first captured by the internet archive? (MM/DD/YY format)
-> 
-> `06/01/97`
-{: .prompt-info }
+<details>
+    <summary>On what date was the site first captured by the internet archive? (MM/DD/YY format)</summary>
+    <p>06/01/97</p>
+</details>
 
-> What is the first sentence of the first body paragraph from the final capture of 2001?
-> 
-> `After years of great online gaming, it’s time to say good-bye.`
-{: .prompt-info }
+<details>
+    <summary>What is the first sentence of the first body paragraph from the final capture of 2001?</summary>
+    <p>After years of great online gaming, it’s time to say good-bye.</p>
+</details>
 
-> Using your search engine skills, what was the name of the company that was responsible for the original version of the site? 
-> 
-> `SegaSoft`
-{: .prompt-info }
+<details>
+    <summary>Using your search engine skills, what was the name of the company that was responsible for the original version of the site?</summary>
+    <p>SegaSoft</p>
+</details>
 
-> What does the first header on the site on the last capture of 2010 say?
-> 
-> `Heat.net – Heating and Cooling`
-{: .prompt-info }
+<details>
+    <summary>What does the first header on the site on the last capture of 2010 say?</summary>
+    <p>Heat.net – Heating and Cooling</p>
+</details>
 
 ---
 ### Task 6: Taking A Peek Under The Hood Of A Website
@@ -375,36 +377,35 @@ To check whether other sites used this Google Analytics code, I went to [nerdyda
 Finally, for affiliate links, I checked eBay links; however, they did not contain any affiliate codes.
 
 #### Answers
-> How many internal links are in the text of the article?
-> 
-> `5`
-{: .prompt-info }
+<details>
+    <summary>How many internal links are in the text of the article?</summary>
+    <p>5</p>
+</details>
 
-> How many external links are in the text of the article?
-> 
-> `1`
-{: .prompt-info }
+<details>
+    <summary>How many external links are in the text of the article?</summary>
+    <p>1</p>
+</details>
 
-> Website in the article's only external link (that isn't an ad)
-> 
-> `purchase.org`
-{: .prompt-info }
+<details>
+    <summary>Website in the article's only external link (that isn't an ad)</summary>
+    <p>purchase.org</p>
+</details>
 
-> Try to find the Google Analytics code linked to the site
-> 
-> `UA-251372-24`
-{: .prompt-info }
+<details>
+    <summary>Try to find the Google Analytics code linked to the site</summary>
+    <p>UA-251372-24</p>
+</details>
 
-> Is the Google Analytics code in use on another website? Yay or nay
-> 
-> `nay`
-{: .prompt-info }
+<details>
+    <summary>Is the Google Analytics code in use on another website? Yay or nay</summary>
+    <p>nay</p>
+</details>
 
-> Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay
-> 
-> `nay`
-{: .prompt-info }
-
+<details>
+    <summary>Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay</summary>
+    <p>nay</p>
+</details>
 
 ---
 ### Task 7: Final Exam: Connect the Dots
@@ -439,10 +440,10 @@ purchase.org:
 | 72.52.193.127    | United States | LIQUIDWEB         | 2012-11-16           |
 
 #### Answers
-> Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.
-> 
-> `Liquid Web, L.L.C`
-{: .prompt-info }
+<details>
+    <summary>Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.</summary>
+    <p>Liquid Web, L.L.C</p>
+</details>
 
 ---
 ### Task 8: Debriefing
@@ -480,8 +481,10 @@ purchase.org:
 > On the other hand, you might be surprised to learn just how common it is for websites to hire SEO agencies. Some of these agencies, whether they admit it or not, have hundreds of PBNs and a staff of writers (usually offshore) pumping out content designed solely for the consumption of the search algorithms.
 
 #### Answers
-> No answer needed
-{: .prompt-info }
+<details>
+    <summary>Click To Complete</summary>
+    <p>No answer needed</p>
+</details>
 
 ---
 ### Task 9: Wrap-up
@@ -499,5 +502,7 @@ purchase.org:
 > Finally, a solid paid option for OSINT training that won't break the bank is [TheOSINTion](https://www.theosintion.com/). If you enjoyed the content of this room you would LOVE the [Business OSINT](https://www.theosintion.com/courses/business-osint/) course they offer. I have no affiliation with the course other than being a satisfied customer.
 
 #### Answers
-> No answer needed
-{: .prompt-info }
+<details>
+    <summary>Update me..</summary>
+    <p>No answer needed</p>
+</details>
