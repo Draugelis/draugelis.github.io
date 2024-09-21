@@ -1,7 +1,7 @@
 ---
 title: TryHackMe - c4ptur3-th3-fl4g
 description: A write-up for the c4ptur3-th3-fl4g Room on TryHackMe
-date: 2024-09-14 13:00 +0300
+date: 2024-09-21 13:00 +0300
 categories: [TryHackMe, CTF]
 tags: [tryhackme, writeup, ctf]
 ---
