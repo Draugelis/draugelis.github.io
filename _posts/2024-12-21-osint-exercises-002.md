@@ -43,7 +43,7 @@ _Structures_
 
 From the photo is difficult to tell which building is the tallest. In the photo dark building with red board on top does not appear tallest whereas in Google Earth it is noticeably taller than "HWT" and "IBM" buildings. I am still not certain whether tower on the left or dark building on the right is taller. It is time to search building heights in the area to find out. 
 
-When searching for "Melbourne building heights", I've found [this neat page by Luke Butler](http://lbutler.github.io/MelbBuildingHeights/) which has the data we are looking for:
+When searching for "Melbourne building heights", I've found [this neat page by Luke Butler](https://lbutler.github.io/MelbBuildingHeights/) which has the data we are looking for:
 
 ![building_heights](/assets/img/posts/osint-exercises/002/building_heights.png)
 _Building heigts map_
