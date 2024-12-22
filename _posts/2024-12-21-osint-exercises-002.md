@@ -3,7 +3,7 @@ title: OSINT Exercise 002
 description: A write-up for OSINT Exercise 002 by Sofia Santos
 date: 2024-12-21 22:00 +0300
 categories: [OSINT]
-tags: [OSINT, writeup]
+tags: [osint, writeup]
 ---
 
 # OSINT Exercise #002
