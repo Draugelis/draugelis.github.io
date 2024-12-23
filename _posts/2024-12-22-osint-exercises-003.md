@@ -6,7 +6,7 @@ categories: [OSINT]
 tags: [osint, writeup]
 ---
 
-# OSINT Exercise #002
+# OSINT Exercise #003
 
 This post is a write-up for an "[OSINT Exercise 003 by Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-003/)"
 
