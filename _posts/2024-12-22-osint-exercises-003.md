@@ -15,7 +15,7 @@ This post is a write-up for an "[OSINT Exercise 003 by Sofia Santos](https://gra
 **Task briefing:**
 In April 2017 Mohamed Abdullahi Farmaajo, the then president of Somalia, visited Turkey. A news agency published a photo where he was seen shaking hands with Recep Tayyip Erdoğan, the country’s president. The article did not disclose where the photo was taken. Your task is to find out the name and coordinates of the location seen below.
 
-Click ![here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-003-picture.jpg) to see the photo on its own.
+Click [here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-003-picture.jpg) to see the photo on its own.
 
 **Exercise level:**
 For beginners: Medium

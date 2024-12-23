@@ -18,7 +18,7 @@ a) What is the name of the resort?
 b) What are the coordinates of the island?
 c) In which cardinal direction was the camera facing when the photo was taken?
 
-Click ![here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-004-big-picture.jpg) to open the photo on a new tab.
+Click [here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-004-big-picture.jpg) to open the photo on a new tab.
 
 **Exercise level:**
 For beginners: a) Easy, b) Easy, c) Medium
