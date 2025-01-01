@@ -43,7 +43,7 @@ To find the location where the photo was taken, we'll need to consider few thing
 The photo was taken in Feb 20, 2013. As for the surroundings, let's take a look at the photo once again:
 
 ![exercise_image_marked](/assets/img/posts/osint-exercises/001/exercise_001_image_marked.png)
-_Marked photo
+_Marked photo_
 
 I've marked a few things here:
 1. It looks like the road goes a bit downhill and uphill. It could be a feature of terrain or there might be a creek/river down there.
