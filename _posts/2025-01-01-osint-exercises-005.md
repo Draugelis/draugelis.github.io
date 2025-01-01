@@ -63,6 +63,7 @@ Alright, considering all of these factors, I am convinced that the photo was tak
 Finding the temperature at the time of the screenshot should be a matter of finding the Zoo exact location/address and finding a source for historical weather data. Typing "San Diego Zoo Polar Bears" brings to [Polar Bear Plunge](https://maps.app.goo.gl/sdnXP3ZHUKQh98JB6) at Zoo Pl, San Diego, CA 92101, United States. As for the weather data, I've found [Weather Underground](https://www.wunderground.com/history) that has past weather data. I've searched for searched data on January 15, 2023 at San Diego, CA 92101.
 
 Here's the data from around January 15, 2023 around 2pm local time:
+
 | Time       | Temperature | Dew Point | Humidity | Wind  | Wind Speed | Wind Gust | Pressure | Precip. | Condition       |
 |------------|-------------|-----------|----------|-------|------------|-----------|----------|---------|-----------------|
 | 1:51 PM    | 62 °F       | 52 °F     | 70 %     | SW    | 9 mph      | 0 mph     | 29.87 in | 0.0 in  | Cloudy          |
