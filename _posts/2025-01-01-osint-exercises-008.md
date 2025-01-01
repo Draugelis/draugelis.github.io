@@ -1,7 +1,7 @@
 ---
 title: OSINT Exercise 008
 description: A write-up for OSINT Exercise 008 by Sofia Santos
-date: 2025-01-01 21:00 +0300
+date: 2025-01-01 20:30 +0300
 categories: [OSINT]
 tags: [osint, writeup]
 ---
