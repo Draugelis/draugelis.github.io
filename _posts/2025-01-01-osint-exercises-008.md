@@ -39,7 +39,7 @@ _Task photo_
 
 Since I do not speak Chinese, I used Google Lens to translate the text in the photo:
 
-![translated](/assets/img/posts/osint-exercises/008/google_lens_translation.png)  
+![translated](/assets/img/posts/osint-exercises/008/googlelenstranslation.png)  
 _Translated photo_
 
 The headline reads, *"Shen Yun brings blessings to the whole world."* A quick search reveals that Shen Yun is a [performing arts and entertainment company](https://en.wikipedia.org/wiki/Shen_Yun). The audience must have been applauding them.

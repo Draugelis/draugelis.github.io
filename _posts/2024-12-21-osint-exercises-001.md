@@ -77,7 +77,7 @@ _Potential find #2_
 
 This area lines up pretty well (there is even a river!). However, to verify whether this is a match, I need to compare satellite imagery with the photo.
 
-![comparison](/assets/img/posts/osint-exercises/001/satellite_picture_comparison.png)
+![comparison](/assets/img/posts/osint-exercises/001/satellitepicturecomparison.png)
 _Satellite and photo comparison_
 
 Alright, so there are some marked spots with numbers. Let's review each one of them:
