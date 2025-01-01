@@ -61,7 +61,7 @@ _Street View on Oct, 2019_
 
 In addition, on the other side, a snapshot from 2019 has the same poster, whereas snapshots from other dates do not:
 
-![street_view_2019_2](/assets/img/posts/osint-exercises/007/street_view_2019_2.png)
+![street_view_2019-2](/assets/img/posts/osint-exercises/007/street_view_2019_2.png)
 _Street View on Oct, 2019_
 
 The poster states that the exhibition will take place starting on April 19, 2019. This suggests that the photo was taken around 2019. Photo sphere from 2020 show a different poster, further confirming that the photo was taken in 2019:
@@ -71,7 +71,7 @@ _Photo Sphere 2020_
 
 Furthermore, Google Street View allows to move closer to the poster to see the link to a website in a readable resolution:
 
-![street_view_2019_3](/assets/img/posts/osint-exercises/007/street_view_2019_3.png)
+![street_view_2019-3](/assets/img/posts/osint-exercises/007/street_view_2019_3.png)
 _Street View on Oct, 2019_
 
 So the website is www[.]tutankamon[.]pt
