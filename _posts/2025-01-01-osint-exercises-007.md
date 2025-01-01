@@ -64,7 +64,10 @@ In addition, on the other side, a snapshot from 2019 has the same poster, wherea
 ![street_view_2019_2](/assets/img/posts/osint-exercises/007/street_view_2019_2.png)
 _Street View on Oct, 2019_
 
-The poster states that the exhibition will take place starting on April 19, 2019. This suggests that the photo was taken around 2019. As there is no coverage from 2020, street view cannot be used to completely rule out 2020 as a possible year when the photo was taken. 
+The poster states that the exhibition will take place starting on April 19, 2019. This suggests that the photo was taken around 2019. Photo sphere from 2020 show a different poster, further confirming that the photo was taken in 2019:
+
+![photosphere_2020](assets/img/posts/osint-exercises/007/photosphere_2020.png)
+_Photo Sphere 2020_
 
 Furthermore, Google Street View allows to move closer to the poster to see the link to a website in a readable resolution:
 
