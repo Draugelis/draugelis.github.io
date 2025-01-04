@@ -3,7 +3,7 @@ title: OSINT Exercise 006
 description: A write-up for OSINT Exercise 006 by Sofia Santos
 date: 2025-01-01 13:00 +0300
 categories: [OSINT]
-tags: [osint, writeup]
+tags: [osint, writeup, gralhix]
 ---
 
 # OSINT Exercise #006

@@ -3,7 +3,7 @@ title: OSINT Exercise 005
 description: A write-up for OSINT Exercise 005 by Sofia Santos
 date: 2025-01-01 11:00 +0300
 categories: [OSINT]
-tags: [osint, writeup]
+tags: [osint, writeup, gralhix]
 ---
 
 # OSINT Exercise #005

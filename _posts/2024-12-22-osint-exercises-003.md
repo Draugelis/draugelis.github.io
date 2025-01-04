@@ -3,7 +3,7 @@ title: OSINT Exercise 003
 description: A write-up for OSINT Exercise 003 by Sofia Santos
 date: 2024-12-22 10:00 +0300
 categories: [OSINT]
-tags: [osint, writeup]
+tags: [osint, writeup, gralhix]
 ---
 
 # OSINT Exercise #003
