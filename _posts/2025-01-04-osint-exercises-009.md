@@ -41,6 +41,9 @@ _People with jackets_
 
 In addition, I found [this infographic](https://starwalk.space/en/infographics/twilight-and-magic-hours), which suggests that such a sky color could occur during _Golden Hour_, which occurs roughly 30 minutes before and after the sun is at 0°. Considering this, I estimate that the video was recorded at 5:15 PM ± 30 minutes.
 
+> **UPDATE**: After completing these exercises, I like to review others' answers, and my approach with the sunset time is not entirely correct. On the video author's Instagram profile, the video was posted at 4:48 PM, which means that the video might have been recorded a couple of minutes before this time. Even though my approximation was close, I should have gone to the video source. I recommend watching [the walkthrough video by Sofia Santos for more insights](https://www.youtube.com/watch?v=FJiOkWQtdYw).
+{: .prompt-info }
+
 Alright, now let's determine the location where the person was walking. Since the camera is facing the sunset, the walking direction must have been west. I decided to reverse image search the first tall building in the video:
 
 ![tallbuilding](/assets/img/posts/osint-exercises/009/tallbuilding.png)
