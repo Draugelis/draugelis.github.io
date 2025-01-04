@@ -59,7 +59,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: https://draugelis.goatcounter.com/count
+    id: draugelis
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
