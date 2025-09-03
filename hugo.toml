@@ -1,3 +1,58 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "draugelis.dev"
+baseURL = "https://draugelis.dev/"
+languageCode = "en"
+defaultContentLanguage = "en"
+theme = "hugo-coder"
+timeZone = "Europe/Vilnius"
+canonifyURLs = true
+enableRobotsTXT = true
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
+
+[markup.highlight]
+style = "github-dark"
+tabWidth = 4
+noClasses = false
+guessSyntax = true
+
+# ignore parked Jekyll site
+ignoreFiles = ["^jekyll/", "^_site/"]
+
+[params]
+author = "Draugelis"
+info = "DevOps Engineer"
+avatarURL = "avatar/avatar.png"
+favicon_32 = "favicons/favicon-32x32.png"
+favicon_16 = "favicons/favicon-16x16.png"
+colorScheme = "dark"
+enableTwemoji = true
+dateFormat = "2006-01-02"
+
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/Draugelis/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/draugelis/"
+
+[[menu.main]]
+name = "Posts"
+url  = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
