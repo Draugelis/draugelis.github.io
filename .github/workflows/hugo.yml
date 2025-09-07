@@ -3,6 +3,11 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "README.md"
+      - ".gitignore"
+      - ".gitattributes"
+      - ".editorconfig"
   workflow_dispatch:
 permissions:
   contents: read
