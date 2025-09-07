@@ -7,52 +7,61 @@ timeZone = "Europe/Vilnius"
 canonifyURLs = true
 enableRobotsTXT = true
 
+[pagination]
+pagerSize = 20
+
 [taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
 [permalinks]
-posts = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:day/:slug/"
 
 [markup.highlight]
-style = "github-dark"
-tabWidth = 4
-noClasses = false
-guessSyntax = true
-
-# ignore parked Jekyll site
-ignoreFiles = ["^jekyll/", "^_site/"]
+  style = "github-dark"
+  tabWidth = 4
+  noClasses = false
+  guessSyntax = true
 
 [params]
-author = "Draugelis"
-info = "DevOps Engineer"
-avatarURL = "avatar/avatar.png"
-favicon_32 = "favicons/favicon-32x32.png"
-favicon_16 = "favicons/favicon-16x16.png"
-colorScheme = "dark"
-enableTwemoji = true
-dateFormat = "2006-01-02"
-
-
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/Draugelis/"
+  author = "Draugelis"
+  info = "DevOps Engineer"
+  keywords = "blog,osing,personal,devops,developer"
+  avatarURL = "avatar/avatar.png"
+  favicon_32 = "favicons/favicon-32x32.png"
+  favicon_16 = "favicons/favicon-16x16.png"
+  colorScheme = "dark"
+  enableTwemoji = true
+  dateFormat = "2006-01-02"
+  customCSS = ["css/custom.css"]
+  customJS = ["js/spoiler.js"]
 
 [[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
-url = "https://www.linkedin.com/in/draugelis/"
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Draugelis/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 4
+  url = "https://www.linkedin.com/in/draugelis/"
+
+[params.goatCounter]
+  code = "draugelis"
 
 [[menu.main]]
-name = "Posts"
-url  = "/posts/"
-weight = 1
+  name = "Posts"
+  url  = "/posts/"
+  weight = 1
 
 [[menu.main]]
-name = "About"
-url  = "/about/"
-weight = 2
+  name = "About"
+  url  = "/about/"
+  weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
