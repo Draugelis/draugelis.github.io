@@ -83,9 +83,6 @@ Alright, so there are some marked spots with numbers. Let's review each one of t
 5. The building itself
 6. A building and a couple of walls.
 
-Given these factors, the photo was taken at these coordinates:
-{{< spoiler >}}
-16°36'34.25"N 11°23'52.10"W
-{{< /spoiler >}}
+Given these factors, the photo was taken at these coordinates: `16°36'34.25"N 11°23'52.10"W`
 
 This was a fun exercise and interesting exercise. At the time of this write-up, there is a total of 30 exercises which will keep me occupied for a while. 

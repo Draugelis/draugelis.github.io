@@ -75,30 +75,15 @@ Name Server: ns2.brainydns.com
 All of this information should be enough to address the questions in this task.
 
 #### Answers
-What is the name of the company the domain was registered with?
-{{< spoiler >}}
-Namecheap Inc
-{{< /spoiler >}}
+What is the name of the company the domain was registered with? `Namecheap Inc`
 
-What phone number is listed for the registration company? (do not include country code or special characters/spaces)
-{{< spoiler >}}
-9854014545
-{{< /spoiler >}}
+What phone number is listed for the registration company? (do not include country code or special characters/spaces) `9854014545`
 
-What is the first nameserver listed for the site?
-{{< spoiler >}}
-ns1.brainydns.com
-{{< /spoiler >}}
+What is the first nameserver listed for the site? `ns1.brainydns.com`
 
-What is listed for the name of the registrant?
-{{< spoiler >}}
-redacted for privacy
-{{< /spoiler >}}
+What is listed for the name of the registrant? `redacted for privacy`
 
-What country is listed for the registrant?
-{{< spoiler >}}
-Iceland
-{{< /spoiler >}}
+What country is listed for the registrant? `Iceland`
 
 ---
 ### Task 3: Ghosts of Websites Past
@@ -133,20 +118,11 @@ Let's open one of the posts for additional details:
 This post is enough to answer the questions for this task, so let's get into it. Just a quick note — for the last one, I had to search "*{city}* national park temple" on Google.
 
 #### Answers
-What is the first name of the blog's author?
-{{< spoiler >}}
-Steve
-{{< /spoiler >}}
+What is the first name of the blog's author? `Steve`
 
-What city and country was the author writing from?
-{{< spoiler >}}
-Gwangju, South Korea
-{{< /spoiler >}}
+What city and country was the author writing from? `Gwangju, South Korea`
 
-[Research] What is the name (in English) of the temple inside the National Park the author frequently visits?
-{{< spoiler >}}
-Jeungsimsa Temple
-{{< /spoiler >}}
+[Research] What is the name (in English) of the temple inside the National Park the author frequently visits? `Jeungsimsa Temple`
 
 ---
 ### Task 4: Digging into DNS
@@ -176,15 +152,9 @@ Since the questions in this task ask about the IP used in October 2016, let's lo
 
 
 #### Answers
-What was RepublicOfKoffee.com's IP address as of October 2016?
-{{< spoiler >}}
-173.248.188.152
-{{< /spoiler >}}
+What was RepublicOfKoffee.com's IP address as of October 2016? `173.248.188.152`
 
-Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?
-{{< spoiler >}}
-shared
-{{< /spoiler >}}
+Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses? `shared`
 
 ---
 ### Task 5: Taking Off The Training Wheels
@@ -249,40 +219,19 @@ Finally, since the last question asks for the *first header on the site on the l
 ![heat.net 2010 December 30th](/posts/tryhackme-webosint/heat_net_2010_12_30.png "heat.net December 30, 2010")
 
 #### Answers
-What is the second nameserver listed for the domain?
-{{< spoiler >}}
-ns2.heat.net
-{{< /spoiler >}}
+What is the second nameserver listed for the domain? `ns2.heat.net`
 
-What IP address was the domain listed on as of December 2011?
-{{< spoiler >}}
-72.52.192.240
-{{< /spoiler >}}
+What IP address was the domain listed on as of December 2011? `72.52.192.240`
 
-Based on domains that share the same IP, what kind of hosting service is the domain owner using?
-{{< spoiler >}}
-shared
-{{< /spoiler >}}
+Based on domains that share the same IP, what kind of hosting service is the domain owner using? `shared`
 
-On what date was the site first captured by the internet archive? (MM/DD/YY format)
-{{< spoiler >}}
-06/01/97
-{{< /spoiler >}}
+On what date was the site first captured by the internet archive? (MM/DD/YY format) `06/01/97`
 
-What is the first sentence of the first body paragraph from the final capture of 2001?
-{{< spoiler >}}
-After years of great online gaming, it’s time to say good-bye.
-{{< /spoiler >}}
+What is the first sentence of the first body paragraph from the final capture of 2001? `After years of great online gaming, it’s time to say good-bye.`
 
-Using your search engine skills, what was the name of the company that was responsible for the original version of the site?
-{{< spoiler >}}
-SegaSoft
-{{< /spoiler >}}
+Using your search engine skills, what was the name of the company that was responsible for the original version of the site? `SegaSoft`
 
-What does the first header on the site on the last capture of 2010 say?
-{{< spoiler >}}
-Heat.net – Heating and Cooling
-{{< /spoiler >}}
+What does the first header on the site on the last capture of 2010 say? `Heat.net – Heating and Cooling`
 
 ---
 ### Task 6: Taking A Peek Under The Hood Of A Website
@@ -352,35 +301,17 @@ To check whether other sites used this Google Analytics code, I went to [nerdyda
 Finally, for affiliate links, I checked eBay links; however, they did not contain any affiliate codes.
 
 #### Answers
-How many internal links are in the text of the article?
-{{< spoiler >}}
-5
-{{< /spoiler >}}
+How many internal links are in the text of the article? `5`
 
-How many external links are in the text of the article?
-{{< spoiler >}}
-1
-{{< /spoiler >}}
+How many external links are in the text of the article? `1`
 
-Website in the article's only external link (that isn't an ad)
-{{< spoiler >}}
-purchase.org
-{{< /spoiler >}}
+Website in the article's only external link (that isn't an ad) `purchase.org`
 
-Try to find the Google Analytics code linked to the site
-{{< spoiler >}}
-UA-251372-24
-{{< /spoiler >}}
+Try to find the Google Analytics code linked to the site `UA-251372-24`
 
-Is the Google Analytics code in use on another website? Yay or nay
-{{< spoiler >}}
-nay
-{{< /spoiler >}}
+Is the Google Analytics code in use on another website? Yay or nay `nay`
 
-Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay
-{{< spoiler >}}
-nay
-{{< /spoiler >}}
+Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay `nay`
 
 ---
 ### Task 7: Final Exam: Connect the Dots
@@ -415,10 +346,7 @@ purchase.org:
 | 72.52.193.127    | United States | LIQUIDWEB         | 2012-11-16           |
 
 #### Answers
-Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.
-{{< spoiler >}}
-Liquid Web, L.L.C
-{{< /spoiler >}}
+Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint. `Liquid Web, L.L.C`
 
 ---
 ### Task 8: Debriefing

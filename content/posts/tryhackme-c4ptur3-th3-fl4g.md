@@ -34,10 +34,7 @@ This is a [leet (1337) speak](https://en.wikipedia.org/wiki/Leet), where letters
 - `7` -> `t` (`T`)
 - `9` -> `g`
 
-Considering this, the answer is:
-{{< spoiler >}}
-can you capture the flag?
-{{< /spoiler >}}
+Considering this, the answer is: `can you capture the flag?`
 
 ---
 > **01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001**
@@ -57,10 +54,7 @@ Now, [convert numbers to ASCII letters](https://www.dcode.fr/ascii-code):
 Input:
 > 108 101 116 115 32 116 114 121 32 115 111 109 101 32 98 105 110 97 114 121 32 111 117 116 33
 
-Output/Answer:
-{{< spoiler >}}
-lets try some binary out!
-{{< /spoiler >}}<br>
+Output/Answer: `lets try some binary out!`<br>
 
 ---
 > **MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======**
@@ -71,10 +65,7 @@ This looks like a Base64/Base32 cipher. [dcode](https://www.dcode.fr/cipher-iden
 echo "MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======" | base32 -d
 ```
 
-Output/Answer:
-{{< spoiler >}}
-base32 is super common in CTF's
-{{< /spoiler >}}<br>
+Output/Answer: `base32 is super common in CTF's`<br>
 
 ---
 > **RWFjaCBCYXNlNjQgZGlnaXQgcmVwcmVzZW50cyBleGFjdGx5IDYgYml0cyBvZiBkYXRhLg==**
@@ -85,10 +76,7 @@ This one is similar to the last cipher. Since the character range is wider (incl
 echo "RWFjaCBCYXNlNjQgZGlnaXQgcmVwcmVzZW50cyBleGFjdGx5IDYgYml0cyBvZiBkYXRhLg==" | base64 -d
 ```
 
-Output/Answer:
-{{< spoiler >}}
-Each Base64 digit represents exactly 6 bits of data.
-{{< /spoiler >}}<br>
+Output/Answer: `Each Base64 digit represents exactly 6 bits of data.`<br>
 
 ---
 > **68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f**
@@ -106,10 +94,7 @@ Output:
 Input:
 > 104 101 120 97 100 101 99 105 109 97 108 32 111 114 32 98 97 115 101 49 54 63 
 
-Output/Answer:
-{{< spoiler >}}
-hexadecimal or base16?
-{{< /spoiler >}}<br>
+Output/Answer: `hexadecimal or base16?`<br>
 
 ---
 > **Ebgngr zr 13 cynprf!**
@@ -119,10 +104,7 @@ The number '13' suggests this is a ROT-13 cipher where all letters are rotated b
 Input:
 > Ebgngr zr 13 cynprf!
 
-Output/Answer:
-{{< spoiler >}}
-Rotate me 13 places!
-{{< /spoiler >}}<br>
+Output/Answer: `Rotate me 13 places!`<br>
 
 ---
 > ***@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX**
@@ -132,10 +114,7 @@ This one is a bit tricky, but [dcode cipher identifier](https://www.dcode.fr/cip
 Input:
 > *@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX
 
-Output/Answer:
-{{< spoiler >}}
-You spin me right round baby right round (47 times)
-{{< /spoiler >}}<br>
+Output/Answer: `You spin me right round baby right round (47 times)`<br>
 
 ---
 > **\- . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -.**
@@ -147,20 +126,14 @@ This is Morse code. To decode it, I will use [dcode Morse Code decoder](https://
 Input:
 > \- . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -. / . -. -.-. --- -.. .. -. --.
 
-Output/Answer:
-{{< spoiler >}}
-TELECOMMUNICATION ENCODING
-{{< /spoiler >}}<br>
+Output/Answer: `TELECOMMUNICATION ENCODING`<br>
 
 ---
 > **85 110 112 97 99 107 32 116 104 105 115 32 66 67 68**
 
 This looks like an ASCII representation in decimal numbers. Similar to binary and hexadecimal, it can be easily converted.
 
-Output/Answer:
-{{< spoiler >}}
-Unpack this BCD
-{{< /spoiler >}}<br>
+Output/Answer: `Unpack this BCD`<br>
 
 ---
 > **LS0tLS0g...LS0gLS0tLS0gLi0tLS0=**
@@ -210,10 +183,7 @@ Now, let's convert these decimal numbers to ASCII, yielding our final answer.
 The sequence of conversions was:
 Base64 -> Morse code -> Binary -> Decimal -> ASCII -> ROT-47 -> Decimal -> ASCII
 
-**Final Answer:**
-{{< spoiler >}}
-Let's make this a bit trickier...
-{{< /spoiler >}}<br>
+**Final Answer:** `Let's make this a bit trickier...`<br>
 
 
 ---
@@ -235,10 +205,7 @@ By examining the spectrogram, you will see the following:
 
 ![Audacity Spectrogram](/posts/tryhackme-c4ptur3th3fl4g/audacity-spectrogram.png "Audacity Spectrogram")
 
-Answer:
-{{< spoiler >}}
-Super Secret Message
-{{< /spoiler >}}<br>
+Answer: `Super Secret Message`<br>
 
 ---
 ### Task 3: Steganography
@@ -276,10 +243,7 @@ wrote extracted data to "steganopayload2248.txt".
 $ cat steganopayload2248.txt
 ```
 
-Answer:
-{{< spoiler >}}
-SpaghettiSteg
-{{< /spoiler >}}<br>
+Answer: `SpaghettiSteg`<br>
 
 ---
 ### Task 4: Security through obscurity
@@ -315,12 +279,6 @@ IEND
 
 Both answers were hidden at the end of the file. Great!
 
-First answer:
-{{< spoiler >}}
-hackerchat.png
-{{< /spoiler >}}<br>
+First answer: `hackerchat.png`<br>
 
-Second answer:
-{{< spoiler >}}
-AHH_YOU_FOUND_ME!
-{{< /spoiler >}}<br>
+Second answer: `AHH_YOU_FOUND_ME!`<br>

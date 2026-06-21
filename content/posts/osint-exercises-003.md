@@ -57,10 +57,7 @@ Okay, now I am convinced that it is the same place. Now it is time to hop into G
 
 The building checks out and the entrance looks similar. My guess that Somali president walked the blue carpet from the gate to this specific entrance where the photo was taken. This gate shows up in other photos where foreign presidents visit Turkey. 
 
-Alright, I think I found it. The last step is to pin point coordiates of this entrance:
-{{< spoiler >}}
-39°55'51.99"N 32°47'58.43"E
-{{< /spoiler >}}
+Alright, I think I found it. The last step is to pin point coordiates of this entrance: `39°55'51.99"N 32°47'58.43"E`
 
 
 Thank you for reading this, let me know if you had a different process for completing this task.

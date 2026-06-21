@@ -91,7 +91,4 @@ $ cat /flag.txt
 ```
 
 ## Answer
-Flag
-{{< spoiler >}}
-flag{4127d0530abf16d6d23973e3df8dbecb}
-{{< /spoiler >}}
+Flag `flag{4127d0530abf16d6d23973e3df8dbecb}`

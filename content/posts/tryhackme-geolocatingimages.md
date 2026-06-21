@@ -80,10 +80,7 @@ Alright, the sculpture in Chicago has buildings around it; however, Image 1 has 
 Great, both Google and Yandex point to China!
 
 #### Answers
-Where in the world is image 1? The answer is the country name.
-{{< spoiler >}}
-China
-{{< /spoiler >}}
+Where in the world is image 1? The answer is the country name. `China`
 
 ---
 ### Task 3: Geolocating Images 101
@@ -177,10 +174,7 @@ On the other side of the street, there is a "Wrigleyville Sports" store where th
 ![Wrigleyville Sports](/posts/tryhackme-geolocatingimages/wrigleyville_sports.png "Wrigleyville Sports")
 
 #### Answers
-Where was image 2 taken?
-{{< spoiler >}}
-Wrigleyville Sports
-{{< /spoiler >}}
+Where was image 2 taken? `Wrigleyville Sports`
 
 ---
 ### Task 5: Helpful tips for geolocating
@@ -260,10 +254,7 @@ The image seems to be taken from a tower at the Laboratory for Space Studies and
 > 2. Access to the **Meudon Observatory**
 
 #### Answers
-Where was image 3 taken?
-{{< spoiler >}}
-Meudon Observatory
-{{< /spoiler >}}
+Where was image 3 taken? `Meudon Observatory`
 
 ---
 ### Task 7: Your turn, what can you see?
@@ -316,10 +307,7 @@ Alright, as the stock image I found on DuckDuckGo said, it is a "Famous intersec
 You can see the live stream of this camera on the [Abbey Road website](https://www.abbeyroad.com/Crossing).
 
 #### Answers
-Where is image 4 taken?
-{{< spoiler >}}
-Abbey Road
-{{< /spoiler >}}
+Where is image 4 taken? `Abbey Road`
 
 ---
 ### Task 8: You're done!

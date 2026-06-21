@@ -75,10 +75,7 @@ This is the only question in this task, so let's move forward.
 
 #### Answer
 
-What username does the attacker go by?
-{{< spoiler >}}
-SakuraSnowAngelAiko
-{{< /spoiler >}}
+What username does the attacker go by? `SakuraSnowAngelAiko`
 
 ---
 ### Task 3: Reconnaissance
@@ -224,15 +221,9 @@ Old: User ID Packet(tag 13)(32 bytes)
   This answer will be based on the introduction post (`@AikoAbe3`).
 
 #### Answers
-What is the full email address used by the attacker?
-{{< spoiler >}}
-SakuraSnowAngel83@protonmail.com
-{{< /spoiler >}}
+What is the full email address used by the attacker? `SakuraSnowAngel83@protonmail.com`
 
-What is the attacker's full real name?
-{{< spoiler >}}
-Aiko Abe
-{{< /spoiler >}}
+What is the attacker's full real name? `Aiko Abe`
 
 ---
 ### Task 4: Unveil
@@ -261,25 +252,13 @@ In addition, there are 3 transactions where the target exchanged ETH for Tether:
 
 
 #### Answers
-What cryptocurrency does the attacker own a cryptocurrency wallet for?
-{{< spoiler >}}
-Ethereum
-{{< /spoiler >}}
+What cryptocurrency does the attacker own a cryptocurrency wallet for? `Ethereum`
 
-What is the attacker's cryptocurrency wallet address?
-{{< spoiler >}}
-0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef
-{{< /spoiler >}}
+What is the attacker's cryptocurrency wallet address? `0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef`
 
-What mining pool did the attacker receive payments from on January 23, 2021 UTC?
-{{< spoiler >}}
-Ethermine
-{{< /spoiler >}}
+What mining pool did the attacker receive payments from on January 23, 2021 UTC? `Ethermine`
 
-What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?
-{{< spoiler >}}
-Tether
-{{< /spoiler >}}
+What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet? `Tether`
 
 ---
 ### Task 5: Taunt
@@ -304,20 +283,11 @@ From DeepPaste, it is known that the target's home WiFi SSID is "DK1F-G." To fin
 ![WiGLE](/posts/tryhackme-sakuraroom/wigle.png "WiGLE Advanced Search")
 
 #### Answers
-What is the attacker's current Twitter handle?
-{{< spoiler >}}
-SakuraLoverAiko
-{{< /spoiler >}}
+What is the attacker's current Twitter handle? `SakuraLoverAiko`
 
-What is the URL for the location where the attacker saved their WiFi SSIDs and passwords?
-{{< spoiler >}}
-http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion
-{{< /spoiler >}}
+What is the URL for the location where the attacker saved their WiFi SSIDs and passwords? `http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion`
 
-What is the BSSID for the attacker's Home WiFi?
-{{< spoiler >}}
-84:AF:EC:34:FC:F8
-{{< /spoiler >}}
+What is the BSSID for the attacker's Home WiFi? `84:AF:EC:34:FC:F8`
 
 ---
 ### Task 6: Homebound
@@ -360,22 +330,10 @@ Finally, the last question is: "What city does the attacker likely consider 'hom
 
 
 #### Answers
-What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
-{{< spoiler >}}
-DCA
-{{< /spoiler >}}
+What airport is closest to the location the attacker shared a photo from prior to getting on their flight? `DCA`
 
-What airport did the attacker have their last layover in?
-{{< spoiler >}}
-HND
-{{< /spoiler >}}
+What airport did the attacker have their last layover in? `HND`
 
-What lake can be seen in the map shared by the attacker as they were on their final flight home?
-{{< spoiler >}}
-Lake Inawashiro
-{{< /spoiler >}}
+What lake can be seen in the map shared by the attacker as they were on their final flight home? `Lake Inawashiro`
 
-What city does the attacker likely consider "home"?
-{{< spoiler >}}
-Hirosaki
-{{< /spoiler >}}
+What city does the attacker likely consider "home"? `Hirosaki`
