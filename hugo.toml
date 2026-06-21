@@ -44,6 +44,9 @@ pagerSize = 20
   customCSS = ["css/custom.css"]
   favicon = "favicon.ico"
 
+[params.goatCounter]
+  code = "draugelis"
+
 [menus]
   [[menus.main]]
     name = 'Home'
