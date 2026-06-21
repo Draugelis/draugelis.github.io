@@ -2,13 +2,17 @@ title = "draugelis.dev"
 baseURL = "https://draugelis.dev/"
 languageCode = "en"
 defaultContentLanguage = "en"
-theme = "hugo-coder"
+theme = ["nojs", "hugo-notice"]
 timeZone = "Europe/Vilnius"
 canonifyURLs = true
 enableRobotsTXT = true
 
 [pagination]
 pagerSize = 20
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [taxonomies]
   category = "categories"
@@ -18,50 +22,35 @@ pagerSize = 20
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
-[markup.highlight]
-  style = "github-dark"
-  tabWidth = 4
-  noClasses = false
-  guessSyntax = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github-dark"
+    tabWidth = 4
+    noClasses = false
+    guessSyntax = true
 
 [params]
-  author = "Draugelis"
-  info = "DevOps Engineer"
-  keywords = "blog,osing,personal,devops,developer"
-  avatarURL = "avatar/avatar.png"
-  favicon_32 = "favicons/favicon-32x32.png"
-  favicon_16 = "favicons/favicon-16x16.png"
-  colorScheme = "dark"
-  enableTwemoji = true
+  keywords = "blog,personal,devops,developer"
   dateFormat = "2006-01-02"
   customCSS = ["css/custom.css"]
-  customJS = ["js/spoiler.js"]
+  favicon = "favicon.ico"
 
-[[params.social]]
-  name = "Github"
-  icon = "fa-brands fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/Draugelis/"
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
 
-[[params.social]]
-  name = "LinkedIn"
-  icon = "fa-brands fa-linkedin fa-2x"
-  weight = 4
-  url = "https://www.linkedin.com/in/draugelis/"
-
-[params.goatCounter]
-  code = "draugelis"
-
-[[menu.main]]
-  name = "Posts"
-  url  = "/posts/"
-  weight = 1
-
-[[menu.main]]
-  name = "About"
-  url  = "/about/"
-  weight = 2
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 2
